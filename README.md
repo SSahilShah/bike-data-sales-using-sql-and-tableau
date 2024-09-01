@@ -83,5 +83,7 @@ The segmentation of customers by spending revealed a wide spread across high and
 
 ---
 
-🔗 **Check out more of my projects and visualizations on [NovyPro]([https://project.novypro.com/8RIUpR]).**
+🔗 **Check out more of my projects and visualizations on [NovyPro](https://project.novypro.com/8RIUpR).**
+
+
 
